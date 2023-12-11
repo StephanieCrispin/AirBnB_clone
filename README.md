@@ -1,4 +1,5 @@
 The AirBnB Clone Project
+-------------------------
 
 Project Description
 -------------------------------------------
